@@ -3,7 +3,7 @@
 #https://msk.rt.ru https://b2c.passport.rt.ru/auth https://www.onlime.ru/bonus/rules/ https://www.ecotelecom.ru https://my.ecotelecom.ru/login?page=/ https://www.akado.ru https://moskva.beeline.ru/customers/products/ https://moskva.myttk.ru/ https://b2b.ttk.ru/ https://msk.dom.ru --http-methods GET STRESS
 
 #markirovka
-https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru --http-methods GET STRESS
+#https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru https://suzgrid.crpt.ru/login http://api.mdlp.crpt.ru http://kb.crpt.ru http://nrz.api.sb.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru --http-methods GET STRESS
 
 #https://www.aktorstc.ru http://ooo-extruzia.ru/order https://mikron.ru https://www.gamma.spb.ru https://mail1.gamma.spb.ru https://e-components.ru https://mail.sp.ru https://micel.ru https://www.chipdip.ru https://micro-bond.com/moskva/ https://www.protehnology.ru https://www.micro-electronics.ru https://electron1ca.ru https://elektronika.store https://www.wite.ru https://www.landcom.ru https://re-store.ru/apple-iphone https://apple-store.net.ru/apple-iphone/ --http-methods GET STRESS
 
@@ -12,3 +12,6 @@ https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ h
 
 #iptv
 #https://okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv https://www.ontvtime.ru https://www.amediateka.ru https://kodiki.amediateka.ru/ https://rt.amediateka.ru/ https://akado.amediateka.ru/ https://wink.ru https://www.1tv.ru/live https://cm.1tv.ru/ https://tlxmob.1tv.ru/ https://25.1tv.ru/ https://kino.1tv.ru/ https://users.1tv.ru/ http://edu.1tv.ru/ https://admin.kino.1tv.ru/ https://stage.1tv.ru/ https://subscr.1tv.ru/ https://kino-teatr.ru http://m.kino-teatr.ru/ https://mt.kino-teatr.ru/ --http-methods GET STRESS
+
+#sbank
+https://online.sberbank.ru/CSAFront/index.do# https://syncplay.online.sberbank.ru https://web4.online.sberbank.ru https://devices.online.sberbank.ru https://www.sberbank.com/ru https://www.sberbank.ru/ru/person https://tortuga.sberbank.ru/site/login https://3dsec.sberbank.ru https://mobilecm.csc.sberbank.ru/ https://office.sberbank.ru https://sber.ru https://sber.ru/business https://sberdevices.ru https://sberprime.sber.ru/plus https://promo.sber.ru/sberserenity https://osago.sberbank.ru https://rabota.sber.ru https://friend.sber.ru https://pulse.sber.ru/# https://api.developer.sber.ru https://194.54.14.131:443 https://194.54.14.131:4477 https://84.252.146.81:443 https://84.252.146.82:443 https://194.186.207.127:443 http://194.54.14.168:80 http://185.157.96.29:80 https://185.157.96.29:443 https://194.54.14.255:443 https://84.252.146.28:443 https://194.54.15.168:443 http://185.157.96.130:80 https://185.157.96.130:443 http://95.181.181.254:80 http://194.54.15.144:80 https://194.54.15.144:443 https://194.54.15.25:443 https://84.252.144.86:443 --http-methods GET STRESS
